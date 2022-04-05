@@ -1,0 +1,16 @@
+{
+  "name": "factoryinjection",
+  "version": "1.0.0",
+  "description": "Projeto para demonstrar exemplo de factorys com injeção de dependências",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Felipe Carli",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  }
+}

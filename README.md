@@ -1,0 +1,1 @@
+Projeto para demonstrar exemplo de factorys com injeção de dependências
